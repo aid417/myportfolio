@@ -203,3 +203,15 @@ ul {
   margin-left: 100px;
   margin-top: 100px;
 }
+.resume {
+  display: flex;
+}
+.resumeimage {
+  border: 1px solid black;
+  margin-left: 500px;
+}
+.download {
+  margin-top: 200px;
+  margin-left: 40px;
+  font-family: "Open Sans", sans-serif;
+}
